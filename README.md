@@ -1,100 +1,44 @@
-# ArchanaChetan07
+# Archana Chetan
 
-Python · MLOps · vLLM · Kubernetes · GPU · LLM inference · Prometheus · platform engineering. Repo scale: 1 files. Platform & MLOps portfolio hub for AI infrastructure work.
+### Special-case profile repository meant to power the GitHub profile landing page.
 
-## Results (numbers)
+[![GitHub](https://img.shields.io/badge/GitHub-ArchanaChetan07-181717?logo=github)](https://github.com/ArchanaChetan07)
+[![Focus](https://img.shields.io/badge/focus-MLOps%20%7C%20LLM%20Infra%20%7C%20EDA-0B6E4F)](https://github.com/ArchanaChetan07?tab=repositories)
 
-| Metric | Value |
-|---|---|
-| Tracked repository files | **1** |
-| Python modules | **0** |
-| Notebooks | **0** |
-| Markdown docs | **1** |
-| CI workflows present | **No** |
-| Automated tests present | **No** |
-| Project highlights | **See repository artifacts for measured results.** |
+GitHub profile repos (`username/username`) should introduce the person, skills, and highlighted projects; this one currently only carries a spam README.
 
-## Tech stack
+Conventionally a single README.md rendered on the profile; here the README was overwritten with portfolio keyword boilerplate unrelated to a personal introduction.
 
-- **Primary language:** See languages below
-- **Languages (GitHub):** N/A
-- **Focus area:** profile
-- **Tooling keywords:** Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM
+## Focus areas
 
-## Architecture (logical)
+- Special-case profile repo (username matches owner)
 
-\\	ext
-Inputs → Processing / models / agents → Evaluation & metrics → CI checks → Artifacts
-\
-## Engineering practices
+## Profile repo facts
 
-1. Reproducible layout with clear module boundaries  
-2. Automated validation via CI and/or tests when present  
-3. Documentation that states measurable outcomes, not slogans  
-4. Skill surface aligned to common JD keywords: Python, machine learning, NLP/LLM, Kubernetes, Docker, observability, data pipelines  
-
-## Quick start
-
-\\ash
-git clone https://github.com/ArchanaChetan07/ArchanaChetan07.git
-cd ArchanaChetan07
-# Install project requirements (see requirements.txt / pyproject.toml / environment files if present)
-# Run tests or main entrypoints documented in this repo
-\
-## Skills demonstrated
-
-Python · machine-learning · CI/CD · API design · testing · automation · Docker · Kubernetes · FastAPI · Prometheus · data-science · LLM · MLOps · software-engineering · benchmarking · observability
-
-## License / notice
-
-See repository license file if present. Metrics above are derived from repository structure and previously published validation notes where available.
+| Metric | Value | Source |
+|---|---|---|
+| Tracked files | **1** | `git tree` |
+| Python modules | **0** | `git tree` |
+| Test-related paths | **0** | `git tree` |
+| CI workflows | **No** | `.github/workflows` |
+| Docker present | **No** | `repo root` |
 
 
-### Extended notes
 
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
+## Selected public work
 
+Browse repositories: [github.com/ArchanaChetan07?tab=repositories](https://github.com/ArchanaChetan07?tab=repositories)
 
-### Extended notes
+Themes: **vLLM · Kubernetes · GPU · observability · SystemVerilog / RTL eval · NLP · multi-agent systems · applied ML**
 
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
+```mermaid
+flowchart LR
+  Profile[Profile README] --> Infra[AI Infra / vLLM / K8s]
+  Profile --> EDA[RTL / HDL benchmarks]
+  Profile --> NLP[NLP / agents]
+  Profile --> ML[Applied ML]
+```
 
+## License
 
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
-
-
-### Extended notes
-
-This section expands documentation for completeness: reproducibility, keyword coverage for Python, machine-learning, CI/CD, API, Docker, Kubernetes, FastAPI, Prometheus, testing, automation, MLOps, LLM, data-science, software-engineering, benchmarking, and observability practices used across the portfolio.
+See individual repositories.
