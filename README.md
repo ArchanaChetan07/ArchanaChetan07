@@ -77,8 +77,7 @@ Every metric on this profile is reproducible from a committed artifact in the re
 
 ## Currently
 
-**AI Engineer, Developer Tooling & Semiconductor Automation** at **SwanTech AI** — building an internal VS Code IDE wired to a self-hosted code model, a RISC-V RTL verification flow (Verilator + Spike golden reference), and a tree-sitter Verilog/SystemVerilog parser grounding an internal retrieval system for design engineers.
-
+**AI Engineer, Developer Tooling & Semiconductor Automation** at **SwanTech AI** 
 **M.S. Applied Data Science**, University of San Diego · GPA 3.9
 
 ---
